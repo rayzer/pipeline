@@ -1,0 +1,3 @@
+package: github.com/rayzer/pipeline
+import:
+- package: github.com/olekukonko/tablewriter
